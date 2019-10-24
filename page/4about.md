@@ -21,7 +21,7 @@ type: page
 
 ## 联系我
 
-* GitHub：[Gaohaoyang](https://github.com/Aton5859)
+* GitHub：[clowner](https://github.com/Aton5859)
 * email：390072015@qq.com
 * [Weibo](https://cn.bing.com)
 * [知乎](https://cn.bing.com)
