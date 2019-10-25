@@ -296,7 +296,7 @@ Syntax Theme: Atom Dark or One Dark
 
     首页的卡片翻动效果非常赞。
 
-### ↑↑↑↑↑↑↑↑↑↑↑↑↑↑ 以上内容均转载自[这位前辈](https://github.com/xudailong/xudailong.github.io) ↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+**↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ 以上内容均转载自[这位前辈](https://github.com/xudailong/xudailong.github.io) ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑**
 
 ## Comments
 
