@@ -298,6 +298,14 @@ Syntax Theme: Atom Dark or One Dark
 
 **↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ 以上内容均转载自[这位前辈](https://github.com/xudailong/xudailong.github.io) ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑**
 
+## 前端技能汇总
+
+* [来自JacksonTian的github，感谢大神分享](https://github.com/JacksonTian/fks)
+
+## Nodejs
+
+* [Node.js调试指南](https://github.com/nswbmw/node-in-debugging)
+
 ## Comments
 
 {% include comments.html %}
